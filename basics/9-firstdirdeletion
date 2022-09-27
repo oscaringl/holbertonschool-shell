@@ -1,0 +1,3 @@
+#!/bin/bash
+rmdir /tmp/my_fisrt_directory
+

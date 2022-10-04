@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | head -n 1 *
+grep -f * | cut -f1
